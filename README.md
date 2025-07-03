@@ -1,5 +1,5 @@
-<h1 align="center">Assalamu alaykum/ Salut 👋, je suis Dobb, un apprenti developpeur</h1>
-<h3 align="center">Un étudiant en informatique passionné par le software</h3>
+<h1 align="center">Assalamu alaykum/ Salut 👋, je suis un apprenti developpeur</h1>
+<h3 align="center">J'apprend l'infoe</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=captainyaya&label=Profile%20views&color=0e75b6&style=flat" alt="captainyaya" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 👯 Je peux collaborer, mais il faut en discuter sur **mon Discord (@nanto.o)**
 
-- 💬 **Vous pouvez me contacter sur Discord (@nanto.o)**
+- 💬 **Vous pouvez me trouver sur Discord (@nanto.o)**
 
 - 📫 Contactez moi ici : **alphacod.contact@gmail.com**
 
