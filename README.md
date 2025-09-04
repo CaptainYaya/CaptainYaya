@@ -7,9 +7,7 @@
 
 - 🔭 Je travaille en ce moment sur **un projet de lecture de données satellitaires**
 
-- 👯 Je peux collaborer, mais il faut en discuter sur **mon Discord (@israelcriminal)**
-
-- 💬 **Vous pouvez me trouver sur Discord (@israelcriminal)**
+- 👯 Je peux collaborer
 
 - 📫 Contactez moi ici : **alphacod.contact@gmail.com**
 
